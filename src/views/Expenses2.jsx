@@ -171,7 +171,7 @@ const Expenses2 = () => {
         <div>
           <div style={{ height: '100vh', width: '100%' }}>
             <GoogleMapReact
-              bootstrapURLKeys={{ key: 'AIzaSyALNwMlXCA435EoksGdx8rIN7l4u_VLvxc' }}
+              bootstrapURLKeys={{ key: '' }}
               defaultCenter={defaultProps.center}
               defaultZoom={defaultProps.zoom}
               yesIWantToUseGoogleMapApiInternals={true}
